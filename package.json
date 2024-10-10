@@ -1,0 +1,19 @@
+{
+    "name": "floating-palette",
+    "displayName": "Floating Palette",
+    "description": "Uncouple the palette menu to everywhere in Aseprite",
+    "version": "1.0",
+    "author": {
+        "name": "Gabriel Carvalho",
+        "email": "oakgco@gmail.com"
+    },
+    "contributors": [ ],
+    "publisher": "oak-gco",
+    "license": "MIT",
+    "categories": [ "Scripts" ],
+    "contributes": {
+        "scripts": [
+            { "path": "./float-palette.lua" }
+        ]
+    }
+}
